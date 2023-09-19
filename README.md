@@ -1,5 +1,5 @@
 
-Bem-vindo ao repositório do **Angular-Playground**! Este repositório contém conjuntos de pastas, cada uma referente a um curso oferecido no bootcamp da DIO. Abaixo você encontrará informações sobre como navegar neste repositório.
+Bem-vindo ao repositório do **dio-typesscript-angular**! Este repositório contém conjuntos de pastas, cada uma referente a um curso oferecido no bootcamp da DIO. Abaixo você encontrará informações sobre como navegar neste repositório.
 
 ## Cursos Oferecidos
 
@@ -33,4 +33,4 @@ Cada pasta com o nome "Curso_X" contém materiais, códigos e recursos relaciona
 
 Sinta-se à vontade para navegar pelas pastas, examinar os materiais e utilizar os recursos disponíveis.
 # dio-typescript-angular
-# dio-typescript-angular
+
